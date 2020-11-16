@@ -7,8 +7,8 @@ use Cake\ORM\Entity;
 class User extends Entity
 {
     protected $_accessible = [
-        kkk
-        '*' => true,
+       ずｚｚｚ
+        '*'  =>  true、
         'id' => false,
         'slug' => false,
 
