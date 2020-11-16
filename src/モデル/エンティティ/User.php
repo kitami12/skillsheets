@@ -14,14 +14,7 @@ class User extends Entity
 
         neko
     ];
-    }
-
-
-
-
-
-
-
+    
 
 
 
