@@ -10,5 +10,6 @@ class User extends Entity
         '*' => true,
         'id' => false,
         'slug' => false,
+        neko
     ];
     }
