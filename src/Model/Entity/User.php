@@ -1,7 +1,7 @@
 <?php
 // src/Model/Entity/Auth_information.php
 namespace App\Model\Entity;
-
+aaa
 use Cake\ORM\Entity;
 
 class User extends Entity
@@ -10,6 +10,5 @@ class User extends Entity
         '*' => true,
         'id' => false,
         'slug' => false,
-
     ];
     }
