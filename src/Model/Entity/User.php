@@ -11,5 +11,14 @@ class User extends Entity
         'id' => false,
         'slug' => false,
 
+
+
+
+
+
+
+
+        
+
     ];
 }
