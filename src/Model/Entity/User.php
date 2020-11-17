@@ -8,16 +8,8 @@ class User extends Entity
 {
     protected $_accessible = [
         '*' => true,
-        '*'  =>  true、
         'id' => false,
         'slug' => false,
 
-        neko
     ];
-    
-
-
-
-
-
-    bbbbbbbbbbbbbbbbbbbbb
+}
