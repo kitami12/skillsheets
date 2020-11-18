@@ -8,10 +8,8 @@
     <td>
 
     <input type="radio" name="gender" value="male">男
-    <input type="radio" name="gender" value="male">男
-    <input type="radio" name="gender" value="male">男
-    <input type="radio" name="gender" value="male">男
     <input type="radio" name="gender" value="female">女
+    <input type="radio" name="gender" value="female">ノーマル
 
     <td><input type="text" size="5" maxlength="10" name="nearest_station" value="" class="memberList"></td>
     <td><input type="text" size="30" maxlength="30" name="final_education" value="" class="memberList"></td>
